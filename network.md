@@ -10,11 +10,12 @@ GET 메소드는 특정 리소스의 표시를 요청합니다. GET을 사용하
 
 ### HEAD
 HEAD 메소드는 GET 메소드의 요청과 동일한 응답을 요구하지만, 응답 본문을 포함하지 않습니다.
-![image](https://user-images.githubusercontent.com/42646264/64108913-1ff05a00-cdb9-11e9-9ad1-39a4f5f09131.png)
 
 
 ### POST
 POST 메소드는 특정 리소스에 엔티티를 제출할 때 쓰입니다. 이는 종종 서버의 상태의 변화나 부작용을 일으킵니다.
+![image](https://user-images.githubusercontent.com/42646264/64108913-1ff05a00-cdb9-11e9-9ad1-39a4f5f09131.png)
+
 
 ### PUT
 PUT 메소드는 목적 리소스 모든 현재 표시를 요청 payload로 바꿉니다.
