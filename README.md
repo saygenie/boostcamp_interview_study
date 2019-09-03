@@ -5,3 +5,6 @@
 
 ### [네트워크](network.md)
 - [X] GET, POST 방식의 차이점을 설명하시오
+
+### [프로그래밍](programming.md)
+- [X] 함수형 프로그래밍이란
