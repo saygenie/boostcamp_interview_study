@@ -70,7 +70,7 @@
 
 
 ### 데이터베이스
-
+- [ ] 트랜잭션 격리 수준이란
 
 ## 추가 자료
 * [jojoldu님의 junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md)
